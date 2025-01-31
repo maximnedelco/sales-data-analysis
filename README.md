@@ -1,2 +1,3 @@
-# sales-data-analysis
-A project for analyzing and sorting sales data.
+# Sales Data Analysis  
+
+This project aims to analyze and sort sales data to provide actionable insights. 
